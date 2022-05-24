@@ -3,7 +3,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Ruby on Rails
 - 💞️ I’m looking to collaborate on any Web Dev Projects
-- 📫 Happy to interact on LinkedIn
+- 📫 Happy to Connect on LinkedIn
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raushan-raj-396117185) 
